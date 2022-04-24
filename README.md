@@ -6,6 +6,12 @@ Kenan YILDIZ
 Kocaceli Üniversitesi
 Bilişim Sistemleri Mühendisliği
 
+        
+Ömercan DURMAZ 181307051
+Kocaceli Üniversitesi
+Bilişim Sistemleri Mühendisliği
+
+
 Özet
 
 Laravel ve veritaabanı kullanarak kullanıcı ve admin işlemlerinin gerçekleştirilebileceği satış sitesi yapımının gerçekleştirilmesi.
@@ -33,13 +39,6 @@ A.	Kodlama Sırası ve şablon
 Kodlama  aşamasına  geçmeden  önce  bir  yol  haritası
 belirlerdik ve o yol haritasını kendimize ışık haline getirdik, basit bir şekilde siteyi laravel ile boostrap aracılığıyla kurduktan sonra işlemlere adım adım devam ederek sorunları göre göre ilerleyip oluşacak sorunları büyümeden önlemeyi, anında çözüm bularak zamandan kazanmayı hedefleyeceğiz. 
 
-Web Programlama Satış Sitesi
-
-        
-Ömercan DURMAZ 181307051
-Kocaceli Üniversitesi
-Bilişim Sistemleri Mühendisliği
-cann_durmazz@icloud.com
 
 
 
