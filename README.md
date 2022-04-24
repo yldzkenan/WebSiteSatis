@@ -1,24 +1,10 @@
 # WebSiteSatis
 WebProgramlamaOdevi
 
-
-
-
-
-
-
-
-
-                                                                                                              
-Kenan YILDIZ 181307051
+                                                                                                          
+Kenan YILDIZ
 Kocaceli Üniversitesi
 Bilişim Sistemleri Mühendisliği
-cann_durmazz@icloud.com
-
-
-
-
-
 
 Özet
 
