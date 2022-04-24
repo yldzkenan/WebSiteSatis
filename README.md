@@ -7,7 +7,7 @@ Kocaceli Üniversitesi
 Bilişim Sistemleri Mühendisliği
 
         
-Ömercan DURMAZ 181307051
+Ömercan DURMAZ
 Kocaceli Üniversitesi
 Bilişim Sistemleri Mühendisliği
 
